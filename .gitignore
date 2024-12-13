@@ -1,0 +1,6 @@
+# Python output
+plotly/.ipynb_checkpoints
+plotly/*.html
+
+# IDEs
+.vscode/
